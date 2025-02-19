@@ -23,3 +23,14 @@ Steps:
 
 1. ```pip3 -r requirements.txt```
 2. ```python3 app.py```
+
+## Frontend
+1. On your server, install node.js (process  varies by OS. Refer to node.js documentation) 
+2. Copy the content of ./dope-frontend to a server location.
+3. Add a .env file to your ./dope-frontend directory (now on your server) with the following entries
+   ```
+   ```
+4. ```npm install```
+
+Steps
+1. ```npm run start```
