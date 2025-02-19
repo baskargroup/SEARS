@@ -40,6 +40,7 @@ Steps
 You can see a preview of the application in the screenshots below
 
 ## Dashboard
+![plot](./screenshots/SEARS1.png)
 
 ## Create a New Experiment
 
