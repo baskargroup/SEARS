@@ -15,4 +15,11 @@ Steps:
 ## Backend
 Prerequisites
 1. On your server, install Python 3.10
-2. Copy the content of 
+2. Copy the content of ./dope-backend to a server location.
+3. Add a .env file to your ./dope-backend directory (now on your server) with the following entries
+   ```
+   ```
+Steps:
+
+1. ```pip3 -r requirements.txt```
+2. ```python3 app.py```
