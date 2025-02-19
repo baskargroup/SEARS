@@ -45,6 +45,3 @@ You can see a preview of the application in the screenshots below
 
 ## View/Edit and Experiment
 
-## Download data in FAIR format/ Zipped files of all uploaded data
-
-## Discover the various experiment Modalities in SEARS
