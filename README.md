@@ -43,6 +43,8 @@ You can see a preview of the application in the screenshots below
 ![plot](./screenshots/SEARS1.png)
 
 ## Create a New Experiment
+![plot](./screenshots/SEARS2.png)
 
 ## View/Edit and Experiment
+![plot](./screenshots/SEARS3.png)
 
