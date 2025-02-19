@@ -11,3 +11,8 @@ Steps:
 1. Inside the "App" that you created. In the Left hand menu under "BUILD", click on Functions.
 2. Reading from the files under the folder /mongodb in this folder, create identical functions in MongoDB atlas by clicking on "Add a Function" [Top Right Corner]
 3. The names of these functions should match the file names under ./mongodb and then copy paste all the content correspondingly. 
+
+## Backend
+Prerequisites
+1. On your server, install Python 3.10
+2. Copy the content of 
