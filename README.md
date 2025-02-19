@@ -34,3 +34,17 @@ Steps:
 
 Steps
 1. ```npm run start```
+
+
+# Select Screen Shots of SEARS Application
+You can see a preview of the application in the screenshots below
+
+## Dashboard
+
+## Create a New Experiment
+
+## View/Edit and Experiment
+
+## Download data in FAIR format/ Zipped files of all uploaded data
+
+## Discover the various experiment Modalities in SEARS
