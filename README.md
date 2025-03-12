@@ -8,25 +8,25 @@ Modern materials science is increasingly data-intensive, integrating robotic aut
 
 * Data Complexity Management: Handles diverse, multi-modal data types (metadata, numerical results, raw experimental files).
 
-* FAIR Compliance: Ensures data is Findable, Accessible, Interoperable, and Reusable through structured metadata and standard formats.
+* FAIR Compliance: Ensures data is Findable, Accessible, Interoperable, and Reusable through structured metadata and standard ```json``` format.
 
-* Real-Time Collaboration: Supports seamless multi-laboratory collaboration with robust version control and fine-grained access control.
+* Real-Time Collaboration: Supports seamless multi-laboratory collaboration powered via a very rich and intuitive interface, centralized storage and data security protocols that prevent data loss.
 
-* ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility.
+* ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility powered via our python powered software development kit.
 
 ## Key Features
 
-* Customizable Ontologies: Tailor data schemas to fit specific research requirements.
+* Customizable Ontologies: Tailor data schemas to fit specific research requirements. Modify and extend ontologies to keep pace with evolving needs without impacting existing experiments.
 
-* Automatic Measurement Tracking: Log and version-control experimental procedures and results.
+* Full Measurement Tracking: Log all experiment results for a particular sample in one place along with the metadata i.e. who, when and where.
 
-* Intuitive Web Interface: User-friendly React.js front-end providing a centralized dashboard, quick experiment creation, QR-coded experiment retrieval, and advanced search functionality.
+* Intuitive Web Interface: User-friendly and responsive front-end providing a centralized dashboard, quick experiment creation, QR-coded experiment retrieval, and advanced search functionality.
 
-* Secure, Scalable Backend: Built with NoSQL (MongoDB) for efficient, schema-flexible data storage and cloud-based deployment for reliable performance.
+* Secure, Scalable Backend: Built with NoSQL (MongoDB) for efficient, schema-flexible data storage and vendor agnostic cloud-based deployment for fast and reliable performance.
 
 * Dual-Redundant File Storage: Ensures data integrity and security with parallel cloud-based and in-house file storage solutions.
 
-* Comprehensive API Ecosystem: REST API-driven architecture facilitating effortless integration with external analysis and visualization tools.
+* Comprehensive API Ecosystem: Modern REST API-driven architecture facilitating effortless integration with external analysis and visualization tools.
 
 ## Use Cases and Impact
 
@@ -44,8 +44,8 @@ SEARS has demonstrated significant impact through various case studies:
 
 * Installation: Detailed installation guidelines available [here](#set-up-instructions).
 
-* Documentation: Comprehensive documentation and tutorials are provided to help new users and developers onboard quickly.
-
+* FAIR Documentation: Please refer to our FAIR portal [here](https://src-ten-psi.vercel.app/)
+  
 * Community and Contributions: Contributions to SEARS are welcome!
 
 _SEARS is released under the MIT license, promoting open science, reproducibility, and collaborative research advancement._
