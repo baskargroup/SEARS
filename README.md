@@ -8,7 +8,7 @@ Modern materials science is increasingly data-intensive, integrating robotic aut
 
 * Data Complexity Management: Handles diverse, multi-modal data types (metadata, numerical results, raw experimental files).
 
-* FAIR Compliance: Ensures data is Findable, Accessible, Interoperable, and Reusable through structured metadata and standard ```json``` format.
+* FAIR Compliance: Ensures data is Findable, Accessible, Interoperable, and Reusable through structured metadata and standard ```json``` format. You can download your experiments in ```FAIR``` format by just 1-click and upload it to any platform that accepts FAIR data.
 
 * Real-Time Collaboration: Supports seamless multi-laboratory collaboration powered via a very rich and intuitive interface, centralized storage and data security protocols that prevent data loss.
 
