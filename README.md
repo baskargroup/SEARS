@@ -1,3 +1,7 @@
+# SEARS: Shared Experiment Aggregation and Retrieval System
+
+SEARS (Shared Experiment Aggregation and Retrieval System) is an open-source, cloud-based platform developed to simplify and accelerate experimental data management in materials science. Originally created to facilitate research on doping in organic semiconductors, SEARS serves as a comprehensive digital infrastructure for data storage, retrieval, sharing, and analysis, promoting efficient collaboration among interdisciplinary teams.
+
 # Set Up Instructions
 
 ## MongoDB
