@@ -6,13 +6,13 @@ SEARS (Shared Experiment Aggregation and Retrieval System) is an open-source, cl
 
 Modern materials science is increasingly data-intensive, integrating robotic automation, machine learning (ML), and collaborative experiments. SEARS addresses the following critical needs:
 
-*Data Complexity Management: Handles diverse, multi-modal data types (metadata, numerical results, raw experimental files).
+* Data Complexity Management: Handles diverse, multi-modal data types (metadata, numerical results, raw experimental files).
 
-*FAIR Compliance: Ensures data is Findable, Accessible, Interoperable, and Reusable through structured metadata and standard formats.
+* FAIR Compliance: Ensures data is Findable, Accessible, Interoperable, and Reusable through structured metadata and standard formats.
 
-*Real-Time Collaboration: Supports seamless multi-laboratory collaboration with robust version control and fine-grained access control.
+* Real-Time Collaboration: Supports seamless multi-laboratory collaboration with robust version control and fine-grained access control.
 
-*ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility.
+* ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility.
 
 # Set Up Instructions
 
