@@ -14,6 +14,20 @@ Modern materials science is increasingly data-intensive, integrating robotic aut
 
 * ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility.
 
+## Key Features
+
+* Customizable Ontologies: Tailor data schemas to fit specific research requirements.
+
+* Automatic Measurement Tracking: Log and version-control experimental procedures and results.
+
+* Intuitive Web Interface: User-friendly React.js front-end providing a centralized dashboard, quick experiment creation, QR-coded experiment retrieval, and advanced search functionality.
+
+* Secure, Scalable Backend: Built with NoSQL (MongoDB) for efficient, schema-flexible data storage and cloud-based deployment for reliable performance.
+
+* Dual-Redundant File Storage: Ensures data integrity and security with parallel cloud-based and in-house file storage solutions.
+
+* Comprehensive API Ecosystem: REST API-driven architecture facilitating effortless integration with external analysis and visualization tools.
+
 # Set Up Instructions
 
 ## MongoDB
