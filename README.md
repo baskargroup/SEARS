@@ -42,7 +42,7 @@ SEARS has demonstrated significant impact through various case studies:
 
 ## Getting Started
 
-* Installation: Detailed installation guidelines available here.
+* Installation: Detailed installation guidelines available [here](#set-up-instructions).
 
 * Documentation: Comprehensive documentation and tutorials are provided to help new users and developers onboard quickly.
 
