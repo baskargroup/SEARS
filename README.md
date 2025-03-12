@@ -12,7 +12,7 @@ Modern materials science is increasingly data-intensive, integrating robotic aut
 
 * Real-Time Collaboration: Supports seamless multi-laboratory collaboration powered via a very rich and intuitive interface, centralized storage and data security protocols that prevent data loss.
 
-* ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility powered via our python powered software development kit.
+* ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility powered via our python powered software development kit [here](https://github.com/baskargroup/SEARS_Data_Pull).
 
 ## Key Features
 
@@ -22,11 +22,11 @@ Modern materials science is increasingly data-intensive, integrating robotic aut
 
 * Intuitive Web Interface: User-friendly and responsive front-end providing a centralized dashboard, quick experiment creation, QR-coded experiment retrieval, and advanced search functionality.
 
-* Secure, Scalable Backend: Built with NoSQL (MongoDB) for efficient, schema-flexible data storage and vendor agnostic cloud-based deployment for fast and reliable performance.
+* Secure, Scalable Backend: Built with ```NoSQL (MongoDB)``` for efficient, schema-flexible data storage and vendor agnostic cloud-based deployment for fast and reliable performance.
 
 * Dual-Redundant File Storage: Ensures data integrity and security with parallel cloud-based and in-house file storage solutions.
 
-* Comprehensive API Ecosystem: Modern REST API-driven architecture facilitating effortless integration with external analysis and visualization tools.
+* Comprehensive API Ecosystem: Modern ```REST``` API-driven architecture facilitating effortless integration with external analysis and visualization tools.
 
 ## Use Cases and Impact
 
