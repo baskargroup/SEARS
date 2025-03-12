@@ -30,7 +30,7 @@ Modern materials science is increasingly data-intensive, integrating robotic aut
 
 ## Use Cases and Impact
 
-* SEARS has demonstrated significant impact through various case studies:
+SEARS has demonstrated significant impact through various case studies:
 
 * Adaptive Design of Experiments (ADoE): Enabled iterative experimental design for optimizing doping processes in conjugated polymers.
 
