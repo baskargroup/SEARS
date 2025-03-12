@@ -46,7 +46,7 @@ SEARS has demonstrated significant impact through various case studies:
 
 * Documentation: Comprehensive documentation and tutorials are provided to help new users and developers onboard quickly.
 
-* Community and Contributions: Contributions to SEARS are welcome! Check the repository's contribution guidelines.
+* Community and Contributions: Contributions to SEARS are welcome!
 
 _SEARS is released under the MIT license, promoting open science, reproducibility, and collaborative research advancement._
 
