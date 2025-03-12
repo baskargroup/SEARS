@@ -65,7 +65,7 @@ You can see a preview of the application in the screenshots below
 ![plot](./screenshots/SEARS3.png)
 
 
-## Set Up Instructions
+# Set Up Instructions
 
 ## MongoDB
 Prerequisites:
