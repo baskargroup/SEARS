@@ -50,10 +50,20 @@ SEARS has demonstrated significant impact through various case studies:
 
 _SEARS is released under the MIT license, promoting open science, reproducibility, and collaborative research advancement._
 
+# Select Screen Shots of SEARS Application
+You can see a preview of the application in the screenshots below
+
+## Dashboard
+![plot](./screenshots/SEARS1.png)
+
+## Create a New Experiment
+![plot](./screenshots/SEARS2.png)
+
+## View/Edit and Experiment
+![plot](./screenshots/SEARS3.png)
 
 
-
-# Set Up Instructions
+## Set Up Instructions
 
 ## MongoDB
 Prerequisites:
@@ -102,15 +112,4 @@ Steps
 1. ```npm run start```
 
 
-# Select Screen Shots of SEARS Application
-You can see a preview of the application in the screenshots below
-
-## Dashboard
-![plot](./screenshots/SEARS1.png)
-
-## Create a New Experiment
-![plot](./screenshots/SEARS2.png)
-
-## View/Edit and Experiment
-![plot](./screenshots/SEARS3.png)
 
