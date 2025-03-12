@@ -50,7 +50,7 @@ SEARS has demonstrated significant impact through various case studies:
 
 _SEARS is released under the MIT license, promoting open science, reproducibility, and collaborative research advancement._
 
-# Select Screen Shots of SEARS Application
+# Select Screen Shots from the SEARS Application
 You can see a preview of the application in the screenshots below
 
 ## Dashboard
