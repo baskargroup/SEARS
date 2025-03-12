@@ -12,7 +12,7 @@ Modern materials science is increasingly data-intensive, integrating robotic aut
 
 * Real-Time Collaboration: Supports seamless multi-laboratory collaboration powered via a very rich and intuitive interface, centralized storage and data security protocols that prevent data loss.
 
-* ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility powered via our python powered software development kit [here](https://github.com/baskargroup/SEARS_Data_Pull).
+* ML Integration: Facilitates adaptive experiment design and data-driven discovery using built-in ML compatibility powered via our python powered software development kit [here](https://github.com/baskargroup/SEARS-Data-Pull).
 
 ## Key Features
 
