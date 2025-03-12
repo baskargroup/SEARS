@@ -42,11 +42,11 @@ SEARS has demonstrated significant impact through various case studies:
 
 ## Getting Started
 
-* Installation: Detailed installation guidelines available [here](#set-up-instructions).
+* Installation: Detailed developer installation guidelines available [here](#set-up-instructions).
 
-* FAIR Documentation: Please refer to our FAIR portal [here](https://src-ten-psi.vercel.app/)
+* FAIR Documentation: Please refer to our FAIR portal [here](https://src-ten-psi.vercel.app/) for a detailed list of field names used in SEARS. 
   
-* Community and Contributions: Contributions to SEARS are welcome!
+* Community and Contributions: Contributions to SEARS are welcome! Please reach out to us via the ```Discussions``` section (github) if you have any questions.
 
 _SEARS is released under the MIT license, promoting open science, reproducibility, and collaborative research advancement._
 
