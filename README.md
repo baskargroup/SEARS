@@ -46,7 +46,7 @@ SEARS has demonstrated significant impact through various case studies:
 
 * FAIR Documentation: Please refer to our FAIR portal [here](https://src-ten-psi.vercel.app/) for a detailed list of field names used in SEARS. 
   
-* Community and Contributions: Contributions to SEARS are welcome! Please reach out to us via the ```Discussions``` section (github) if you have any questions.
+* Community and Contributions: Contributions to SEARS are welcome! Please reach out to us via the ```Discussions``` section in the top menu bar if you have any questions.
 
 _SEARS is released under the MIT license, promoting open science, reproducibility, and collaborative research advancement._
 
