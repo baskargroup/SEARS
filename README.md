@@ -44,7 +44,7 @@ SEARS has demonstrated significant impact through various case studies:
 
 * Installation: Detailed developer installation guidelines available [here](#set-up-instructions).
 
-* FAIR Documentation: Please refer to our FAIR portal [here](https://src-ten-psi.vercel.app/) for a detailed list of field names used in SEARS. 
+* FAIR Documentation: Please refer to our FAIR portal [here](https://v0-fair-data-webpage.vercel.app) for a detailed list of field names used in SEARS. 
   
 * Community and Contributions: Contributions to SEARS are welcome! Please reach out to us via the ```Discussions``` section in the top menu bar if you have any questions.
 
