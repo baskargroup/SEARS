@@ -43,6 +43,7 @@ SEARS has demonstrated significant impact through various case studies:
 ## Getting Started
 
 * Installation: Detailed developer installation guidelines available [here](#set-up-instructions).
+* Modifications : Instructions to Modify SEARS i.e., adding or deleting new screens to fit your needs are [here](ADDING_REMOVING NEW SCREENS - SEARS.pdf). Note : Making these changes automatically makes modifications in the MongoDB backend.
 
 * FAIR Documentation: Please refer to our FAIR portal [here](https://v0-fair-data-webpage.vercel.app) for a detailed list of field names used in SEARS. 
   
