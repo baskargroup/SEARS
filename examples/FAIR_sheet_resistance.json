@@ -1,0 +1,3522 @@
+[
+  {
+    "_id": "660858dddc56149493ba3d7e",
+    "experiment_name": "Spring24_SolvTemp_JPM_1",
+    "experiment_dt": "2025-08-28T00:43:10.446101Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.725643604932752e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66085f3c82f78f6f268541f3",
+    "experiment_name": "Spring24_SolvTemp_JPM_2",
+    "experiment_dt": "2025-08-28T00:43:10.446294Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "5.552779165972569e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660861c681d775fd84048281",
+    "experiment_name": "Spring24_SolvTemp_JPM_3",
+    "experiment_dt": "2025-08-28T00:43:10.446397Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.984126984126984e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660864188342d8f8565f210a",
+    "experiment_name": "Spring24_SolvTemp_JPM_4",
+    "experiment_dt": "2025-08-28T00:43:10.446482Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.4515894907028001e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608651d8342d8f8567debaa",
+    "experiment_name": "Spring24_SolvTemp_JPM_5",
+    "experiment_dt": "2025-08-28T00:43:10.446575Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.718213058419244e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608663cdc561494935b873d",
+    "experiment_name": "Spring24_SolvTemp_JPM_6",
+    "experiment_dt": "2025-08-28T00:43:10.446660Z",
+    "annealing_temperature": "60",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "6.54407434068451e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608670fdc561494937564a5",
+    "experiment_name": "Spring24_SolvTemp_JPM_7",
+    "experiment_dt": "2025-08-28T00:43:10.446728Z",
+    "annealing_temperature": "60",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.3038192161040767e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660867c78342d8f856c2a083",
+    "experiment_name": "Spring24_SolvTemp_JPM_8",
+    "experiment_dt": "2025-08-28T00:43:10.446793Z",
+    "annealing_temperature": "60",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.6490066232182803e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608688c5003d64741483d66",
+    "experiment_name": "Spring24_SolvTemp_JPM_9",
+    "experiment_dt": "2025-08-28T00:43:10.446865Z",
+    "annealing_temperature": "90",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "4.5974897705852604e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608697394e011fc192d23e9",
+    "experiment_name": "Spring24_SolvTemp_JPM_10",
+    "experiment_dt": "2025-08-28T00:43:10.446939Z",
+    "annealing_temperature": "90",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "4.353125544140693e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66086a7754a36d6df38c34a2",
+    "experiment_name": "Spring24_SolvTemp_JPM_11",
+    "experiment_dt": "2025-08-28T00:43:10.447021Z",
+    "annealing_temperature": "90",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "6.344775077723494e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66086b5bdc56149493dfcf5d",
+    "experiment_name": "Spring24_SolvTemp_JPM_12",
+    "experiment_dt": "2025-08-28T00:43:10.447082Z",
+    "annealing_temperature": "90",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.7612366946251926e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66086c4194e011fc198295e0",
+    "experiment_name": "Spring24_SolvTemp_JPM_13",
+    "experiment_dt": "2025-08-28T00:43:10.447141Z",
+    "annealing_temperature": "180",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.3315458143316517e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66086f5882f78f6f266d085b",
+    "experiment_name": "Spring24_SolvTemp_JPM_14",
+    "experiment_dt": "2025-08-28T00:43:10.447208Z",
+    "annealing_temperature": "180",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.117298327782617e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66087079aebabf93762570c5",
+    "experiment_name": "Spring24_SolvTemp_JPM_15",
+    "experiment_dt": "2025-08-28T00:43:10.447267Z",
+    "annealing_temperature": "210",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.0370216738605229e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660871a68342d8f856e86284",
+    "experiment_name": "Spring24_SolvTemp_JPM_16",
+    "experiment_dt": "2025-08-28T00:43:10.447324Z",
+    "annealing_temperature": "210",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "8.946144211844694e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660872ff5003d64741903693",
+    "experiment_name": "Spring24_SolvTemp_JPM_17",
+    "experiment_dt": "2025-08-28T00:43:10.447385Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "5.424170101974398e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608745582f78f6f26fe87b1",
+    "experiment_name": "Spring24_SolvTemp_JPM_18",
+    "experiment_dt": "2025-08-28T00:43:10.447442Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "6.519754857217368e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660876568342d8f856726fda",
+    "experiment_name": "Spring24_SolvTemp_JPM_19",
+    "experiment_dt": "2025-08-28T00:43:10.447505Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "7.502438292445044e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66087789dc561494934f7069",
+    "experiment_name": "Spring24_SolvTemp_JPM_20",
+    "experiment_dt": "2025-08-28T00:43:10.447561Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "6.137605106487449e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660878a05003d64741287f99",
+    "experiment_name": "Spring24_SolvTemp_JPM_21",
+    "experiment_dt": "2025-08-28T00:43:10.447618Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "90",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "4.4095599259193934e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660879a55003d647414ab371",
+    "experiment_name": "Spring24_SolvTemp_JPM_22",
+    "experiment_dt": "2025-08-28T00:43:10.447674Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "7.407407407407407e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66087a9a82f78f6f26afd268",
+    "experiment_name": "Spring24_SolvTemp_JPM_23",
+    "experiment_dt": "2025-08-28T00:43:10.447737Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "7.388798581350672e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66087ba881d775fd841e4e90",
+    "experiment_name": "Spring24_SolvTemp_JPM_24",
+    "experiment_dt": "2025-08-28T00:43:10.447794Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "8.21422704123542e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66087e36dc56149493176624",
+    "experiment_name": "Spring24_SolvTemp_JPM_25",
+    "experiment_dt": "2025-08-28T00:43:10.447982Z",
+    "annealing_temperature": "240",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.81257930034439e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66087f408342d8f85680613b",
+    "experiment_name": "Spring24_SolvTemp_JPM_26",
+    "experiment_dt": "2025-08-28T00:43:10.448078Z",
+    "annealing_temperature": "240",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.0206102238794483e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608804682f78f6f264a3c71",
+    "experiment_name": "Spring24_SolvTemp_JPM_27",
+    "experiment_dt": "2025-08-28T00:43:10.448143Z",
+    "annealing_temperature": "240",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.403846153268306e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608815e82f78f6f266c8067",
+    "experiment_name": "Spring24_SolvTemp_JPM_28",
+    "experiment_dt": "2025-08-28T00:43:10.448317Z",
+    "annealing_temperature": "240",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.1786492374727668e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660885fd5003d64741d09fb0",
+    "experiment_name": "Spring24_SolvTemp_JPM_29",
+    "experiment_dt": "2025-08-28T00:43:10.448381Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "8.875477056891809e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660887528342d8f85671035b",
+    "experiment_name": "Spring24_SolvTemp_JPM_30",
+    "experiment_dt": "2025-08-28T00:43:10.448441Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.1253985126727736e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660888beaebabf9376ea6f57",
+    "experiment_name": "Spring24_SolvTemp_JPM_31",
+    "experiment_dt": "2025-08-28T00:43:10.448500Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.420721374969741e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66088b035003d647416d9579",
+    "experiment_name": "Spring24_SolvTemp_JPM_32",
+    "experiment_dt": "2025-08-28T00:43:10.448558Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.1203226530495545e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66088bdc81d775fd841b66fa",
+    "experiment_name": "Spring24_SolvTemp_JPM_33",
+    "experiment_dt": "2025-08-28T00:43:10.448615Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.4425989246598436e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66088cbe82f78f6f26ce49a9",
+    "experiment_name": "Spring24_SolvTemp_JPM_34",
+    "experiment_dt": "2025-08-28T00:43:10.448671Z",
+    "annealing_temperature": "210",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.7739932588256166e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66088e0281d775fd845c1e46",
+    "experiment_name": "Spring24_SolvTemp_JPM_35",
+    "experiment_dt": "2025-08-28T00:43:10.448729Z",
+    "annealing_temperature": "180",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.7452006980802793e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "66088eff5003d64741e403b3",
+    "experiment_name": "Spring24_SolvTemp_JPM_36",
+    "experiment_dt": "2025-08-28T00:43:10.448784Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "5.128994204236549e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660890408342d8f856738636",
+    "experiment_name": "Spring24_SolvTemp_JPM_37",
+    "experiment_dt": "2025-08-28T00:43:10.448840Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "7.217610970768675e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660892a5a6bd9adf4b807a91",
+    "experiment_name": "Spring24_SolvTemp_JPM_38",
+    "experiment_dt": "2025-08-28T00:43:10.448895Z",
+    "annealing_temperature": "180",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.98294665873488e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "660894015003d6474188ca82",
+    "experiment_name": "Spring24_SolvTemp_JPM_39",
+    "experiment_dt": "2025-08-28T00:43:10.448951Z",
+    "annealing_temperature": "210",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.5106703483528317e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608951154a36d6df394f875",
+    "experiment_name": "Spring24_SolvTemp_JPM_40",
+    "experiment_dt": "2025-08-28T00:43:10.449007Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "90",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "4.103069095683571e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608d757aebabf93766de5c8",
+    "experiment_name": "Spring24_SolvTemp_JPM_89",
+    "experiment_dt": "2025-08-28T00:43:10.452324Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "4.622140050843541e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608d8038342d8f856ba4b28",
+    "experiment_name": "Spring24_SolvTemp_JPM_90",
+    "experiment_dt": "2025-08-28T00:43:10.452378Z",
+    "annealing_temperature": "240",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.348625389277701e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608d8a9aebabf93769bc6f0",
+    "experiment_name": "Spring24_SolvTemp_JPM_91",
+    "experiment_dt": "2025-08-28T00:43:10.452448Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.5635109846445692e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608d94082f78f6f268a2535",
+    "experiment_name": "Spring24_SolvTemp_JPM_92",
+    "experiment_dt": "2025-08-28T00:43:10.452506Z",
+    "annealing_temperature": "210",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.5748031493582985e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608d9d082f78f6f269ab5b4",
+    "experiment_name": "Spring24_SolvTemp_JPM_93",
+    "experiment_dt": "2025-08-28T00:43:10.452562Z",
+    "annealing_temperature": "180",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "100",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.642456472645152e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608dab6dc561494937f15dd",
+    "experiment_name": "Spring24_SolvTemp_JPM_94",
+    "experiment_dt": "2025-08-28T00:43:10.452620Z",
+    "annealing_temperature": "210",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.0703933747412007e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608db5881d775fd8443e48f",
+    "experiment_name": "Spring24_SolvTemp_JPM_95",
+    "experiment_dt": "2025-08-28T00:43:10.452681Z",
+    "annealing_temperature": "210",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.6622340428294937e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6608dc0782f78f6f26d806ee",
+    "experiment_name": "Spring24_SolvTemp_JPM_96",
+    "experiment_dt": "2025-08-28T00:43:10.452735Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "90",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "4.499437570303712e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704b9c6a5d90af508db2255",
+    "experiment_name": "Spring24_SolvTemp_JPM_97",
+    "experiment_dt": "2025-08-28T00:43:10.452791Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.883193538365952e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704beb484cfffa9c7ebaefc",
+    "experiment_name": "Spring24_SolvTemp_JPM_98",
+    "experiment_dt": "2025-08-28T00:43:10.452846Z",
+    "annealing_temperature": "180",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.173797129880095e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704c40cd95e1861d656e443",
+    "experiment_name": "Spring24_SolvTemp_JPM_99",
+    "experiment_dt": "2025-08-28T00:43:10.452901Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.603733467872716e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704c5853670825d4bb43615",
+    "experiment_name": "Spring24_SolvTemp_JPM_100",
+    "experiment_dt": "2025-08-28T00:43:10.452956Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "2.5960539979231568e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704c703c3794f93ea10ff0d",
+    "experiment_name": "Spring24_SolvTemp_JPM_101",
+    "experiment_dt": "2025-08-28T00:43:10.453021Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.6391561621389093e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704c8cb8afb9cb01782309a",
+    "experiment_name": "Spring24_SolvTemp_JPM_102",
+    "experiment_dt": "2025-08-28T00:43:10.453076Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "6.325110689437065e-07",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704c9ef2191905155aff00d",
+    "experiment_name": "Spring24_SolvTemp_JPM_103",
+    "experiment_dt": "2025-08-28T00:43:10.453130Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.801477211637809e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704cb253670825d4bdb23e0",
+    "experiment_name": "Spring24_SolvTemp_JPM_104",
+    "experiment_dt": "2025-08-28T00:43:10.453184Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "3.641660597232338e-07",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704cc8d2191905155c13522",
+    "experiment_name": "Spring24_SolvTemp_JPM_105",
+    "experiment_dt": "2025-08-28T00:43:10.453246Z",
+    "annealing_temperature": "180",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.4708045302942792e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704cf108afb9cb017a7001d",
+    "experiment_name": "Spring24_SolvTemp_JPM_106",
+    "experiment_dt": "2025-08-28T00:43:10.453302Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.0105092965834165e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704d1b83670825d4b0b8ca1",
+    "experiment_name": "Spring24_SolvTemp_JPM_107",
+    "experiment_dt": "2025-08-28T00:43:10.453368Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "5.99592277251469e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704d2c8d95e1861d6b09ec3",
+    "experiment_name": "Spring24_SolvTemp_JPM_108",
+    "experiment_dt": "2025-08-28T00:43:10.453424Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "6.3000063000063e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704d3e832f8d61243f6ebbb",
+    "experiment_name": "Spring24_SolvTemp_JPM_109",
+    "experiment_dt": "2025-08-28T00:43:10.453478Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "8.002560819462227e-07",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704d5a92191905155ff68f6",
+    "experiment_name": "Spring24_SolvTemp_JPM_110",
+    "experiment_dt": "2025-08-28T00:43:10.453539Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.1134617524648187e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704d7ba84cfffa9c78b7331",
+    "experiment_name": "Spring24_SolvTemp_JPM_111",
+    "experiment_dt": "2025-08-28T00:43:10.453595Z",
+    "annealing_temperature": "180",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "5.450779461462989e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704d90537c5561e157b7e94",
+    "experiment_name": "Spring24_SolvTemp_JPM_112",
+    "experiment_dt": "2025-08-28T00:43:10.453648Z",
+    "annealing_temperature": "60",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "7.964954201513341e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704da258afb9cb017f04ed0",
+    "experiment_name": "Spring24_SolvTemp_JPM_113",
+    "experiment_dt": "2025-08-28T00:43:10.453707Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "5.554629783924901e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704db4b32f8d612432cffb2",
+    "experiment_name": "Spring24_SolvTemp_JPM_114",
+    "experiment_dt": "2025-08-28T00:43:10.453762Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "4.7404598246029865e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704dc778afb9cb017fdd9e4",
+    "experiment_name": "Spring24_SolvTemp_JPM_115",
+    "experiment_dt": "2025-08-28T00:43:10.453822Z",
+    "annealing_temperature": "210",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.3950892859089132e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704ddc037c5561e1596e8e0",
+    "experiment_name": "Spring24_SolvTemp_JPM_116",
+    "experiment_dt": "2025-08-28T00:43:10.453878Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "9.954210631096954e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704dec8d95e1861d6f32e64",
+    "experiment_name": "Spring24_SolvTemp_JPM_117",
+    "experiment_dt": "2025-08-28T00:43:10.453934Z",
+    "annealing_temperature": "60",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "5.716245569909683e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704e4173670825d4b811acb",
+    "experiment_name": "Spring24_SolvTemp_JPM_118",
+    "experiment_dt": "2025-08-28T00:43:10.453989Z",
+    "annealing_temperature": "120",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "4.279722673970727e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704e5ed3670825d4b8c51ab",
+    "experiment_name": "Spring24_SolvTemp_JPM_119",
+    "experiment_dt": "2025-08-28T00:43:10.454051Z",
+    "annealing_temperature": "240",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.7445308959465006e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704e7885f13e5b38903ae65",
+    "experiment_name": "Spring24_SolvTemp_JPM_120",
+    "experiment_dt": "2025-08-28T00:43:10.454110Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "6.3243106501391345e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704e96b84cfffa9c7f67c45",
+    "experiment_name": "Spring24_SolvTemp_JPM_122",
+    "experiment_dt": "2025-08-28T00:43:10.454166Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "8.3619031691613e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704ebae32f8d612438e0c63",
+    "experiment_name": "Spring24_SolvTemp_JPM_123",
+    "experiment_dt": "2025-08-28T00:43:10.454253Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.3482540112374617e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704ecd28afb9cb0175bd23b",
+    "experiment_name": "Spring24_SolvTemp_JPM_124",
+    "experiment_dt": "2025-08-28T00:43:10.454310Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "60",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.4386419220256078e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704ede937c5561e15f8b132",
+    "experiment_name": "Spring24_SolvTemp_JPM_125",
+    "experiment_dt": "2025-08-28T00:43:10.454378Z",
+    "annealing_temperature": "270",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "70",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "30",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "8.58000858000858e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704eef084cfffa9c71b570e",
+    "experiment_name": "Spring24_SolvTemp_JPM_126",
+    "experiment_dt": "2025-08-28T00:43:10.454436Z",
+    "annealing_temperature": "60",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "20",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "7.068636460026861e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704f0428afb9cb01778fa8d",
+    "experiment_name": "Spring24_SolvTemp_JPM_127",
+    "experiment_dt": "2025-08-28T00:43:10.454494Z",
+    "annealing_temperature": "150",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "40",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "50",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.4814814814814815e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704f16d8afb9cb0177dc8ff",
+    "experiment_name": "Spring24_SolvTemp_JPM_128",
+    "experiment_dt": "2025-08-28T00:43:10.454548Z",
+    "annealing_temperature": "30",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "80",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "6.275100401606426e-06",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  },
+  {
+    "_id": "6704f2d7d95e1861d6594310",
+    "experiment_name": "Spring24_SolvTemp_JPM_129",
+    "experiment_dt": "2025-08-28T00:43:10.454663Z",
+    "annealing_temperature": "90",
+    "solvents": [
+      {
+        "name": "CB",
+        "value": "0",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "DCB",
+        "value": "10",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      },
+      {
+        "name": "Tol",
+        "value": "90",
+        "mol_wt": "",
+        "smiles": "",
+        "hsp_delta_d": "",
+        "hsp_delta_p": "",
+        "hsp_delta_h": ""
+      }
+    ],
+    "conductivity": [
+      {
+        "batch": "1",
+        "reading": "1.4766686357762358e-05",
+        "who": "Nick"
+      }
+    ],
+    "user": "rtali@iastate.edu",
+    "registry": "https://v0-fair-data-webpage.vercel.app/"
+  }
+]
